@@ -18,7 +18,9 @@ const config: Config = {
     [
       'classic',
       {
-        docs: false,
+        docs: {
+          sidebarPath: "./sidebars.ts",
+        },
         blog: false,
         theme: {
           customCss: './src/css/custom.css',
@@ -29,12 +31,53 @@ const config: Config = {
 
   themeConfig: {
     navbar: {
-      title: 'URL @ UCI',
-      items: [],
+      title: 'Undergraduate Research Lab @ UCI',
+      items: [
+        {
+          label: "Proposals",
+          to: "/docs/proposals/"
+        },
+        {
+          label: "UROP Resources",
+          to: "/docs/urop/"
+        },
+        {
+          label: "Documentation",
+          to: "/docs/",
+          position: "right",
+        }
+      ],
     },
     footer: {
       style: 'dark',
-      links: [],
+      links: [
+        {
+          title: "Undergraduate Research Lab",
+          items: [
+            {
+              label: "Submitting a Proposal",
+              to: "/docs/proposals/"
+            },
+            {
+              label: "UROP Resources",
+              to: "docs/urop/"
+            }
+          ],
+        },
+        {
+          title: "Socials",
+          items: [
+            {
+              label: "Instagram",
+              href: "https://instagram.com/urlatuci/"
+            },
+            {
+              label: "GitHub",
+              href: "https://github.com/urlatuci/"
+            }
+          ]
+        },
+      ],
     },
     prism: {
       theme: prismThemes.github,
