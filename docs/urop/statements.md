@@ -1,15 +1,20 @@
 # Writing a personal statement
 
 The UROP REF requires students to submit a personal statement for their
-projects. Here are some of the basic things you should include in your
-personal statement:
+proposals. These are things you should keep in mind when writing your own
+personal statement.
 
 :::note
 
 This information is taken directly from [the 2024 Research Experience Fellowship
 Application Guide](https://bpb-us-w2.wpmucdn.com/wp.ovptl.uci.edu/dist/e/3/files/2024/09/2024-Research-Experience-Fellowship-REF-Guide-1-1.pdf), pages 11-12.
 
+The only difference is that we include examples from the 2023 Ojos Project
+proposal.
+
 :::
+
+## Requirements
 
 - Interest and Motivation for Research or Creative Activity
   - Describe your academic or professional interest in conducting research or
@@ -40,6 +45,15 @@ Microsoft Word file** that will be uploaded to your group's online application.
 Please include each student's name at the beginning of their statement.
 
 :::
+
+## Formatting
+
+- **Name**: At the top of the page
+- **Page Count**: Typically 1-2 pages
+- **Spacing**: Double spaced
+- **Margins**: 1" margins
+- **Font**: 11-point or larger, Times New Roman/Calibri/Arial
+- **Document**: 8.5"x11" size, MS Word or PDF
 
 ## Example: Ojos Project's 2023 Personal Statements
 
