@@ -1,3 +1,8 @@
+---
+description: >
+  Are you ready to jump into your next research ambition? Read the guidelines
+  for a proposal to the Undergraduate Research Lab and get started!
+---
 # URL Proposal Guidelines
 
 Want to pursue your research ambitions? You can submit a proposal to the

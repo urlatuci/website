@@ -1,3 +1,8 @@
+---
+description: >
+  These are guidelines for writing a personal statement for the UCI UROP
+  Research Experience Fellowship program.
+---
 # Writing a personal statement
 
 The UROP REF requires students to submit a personal statement for their
