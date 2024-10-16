@@ -84,16 +84,16 @@ Provide a rough timeline for the entire quarter.
 
 If you included references in your proposal, please add them here!
 
-## Example
+## Samples
 
 This section will include what would be a proposal for the
 [Ojos Project](https://ojosproject.org/).
 
-## Sample Abstract
+### Sample Abstract
 
-## Sample Introduction
+### Sample Introduction
 
-### Sample Problem
+#### Sample Problem
 
 > *When a family member is placed on hospice care, it can be a very troubling
 > time for everybody. The entire family wants to help, but with various
@@ -104,7 +104,7 @@ This section will include what would be a proposal for the
 > you're still trying to process everything that's happening. It's normal, and
 > it happens to everybody.*
 
-### Sample Solution
+#### Sample Solution
 
 > *I propose creating a tablet-like kiosk that would help keep track of a
 > hospice patient's care. This device would be an all-in-one device for hospice
@@ -119,15 +119,15 @@ This section will include what would be a proposal for the
 > caregivers so that everybody knows that the patient has taken their
 > medication, ensuring that everybody is on the same page.*
 
-## Sample Technicality
+### Sample Technicality
 
-### Sample Benefits
+#### Sample Benefits
 
 > *The benefits of this research would include: improving a patient's EOL care,
 > increasing their independence, and help caregivers provide the best possible
 > care for their loved one.*
 
-### Sample Method of Approach
+#### Sample Method of Approach
 
 > *There would be two aspects to this research: a programming aspect and an
 > engineering aspect.*
