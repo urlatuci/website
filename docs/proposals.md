@@ -38,6 +38,10 @@ follow these rules:
 Your proposal will be written on Google Forms. This section will explain each
 individual part of your proposal.
 
+Your proposal will be written in
+[this Google Form](https://forms.gle/LGNjZSB185N2wtt59). This section will
+explain each individual part of your proposal.
+
 ### Abstract
 
 You must provide a general overview of the project itself. It doesn't have to
