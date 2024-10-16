@@ -9,6 +9,8 @@ Want to pursue your research ambitions? You can submit a proposal to the
 Undergraduate Research Lab for the opportunity to lead a research project! This
 document is here to help you write a great proposal.
 
+Your next adventure starts here!
+
 ## URL Project Requirements
 
 Before you start writing your proposal, please make sure that you are willing to

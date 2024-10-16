@@ -5,17 +5,15 @@ description: >
 ---
 # Writing a personal statement
 
-The UROP REF requires students to submit a personal statement for their
-proposals. These are things you should keep in mind when writing your own
-personal statement.
+The UCI UROP Research Experience Fellowship application requires students to
+submit a personal statement for their proposals. This document is here to help
+you understand what your personal statement needs, as well as an example from
+the 2023 Ojos Project Proposal.
 
 :::note
 
 This information is taken directly from [the 2024 Research Experience Fellowship
 Application Guide](https://bpb-us-w2.wpmucdn.com/wp.ovptl.uci.edu/dist/e/3/files/2024/09/2024-Research-Experience-Fellowship-REF-Guide-1-1.pdf), pages 11-12.
-
-The only difference is that we include examples from the 2023 Ojos Project
-proposal.
 
 :::
 
