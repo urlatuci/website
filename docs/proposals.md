@@ -15,7 +15,7 @@ follow these rules:
   going to the room.
 - **Project Size**: A project must have at least 3 members at all times.
   If a project does not have enough members, they will be given a deadline to
-  find more members.
+  find more members. You may still apply, even if you have less than 3 members.
 - **Timelines**: Projects must keep a timeline/agenda for their work. It must be
   updated as much as possible, and the URL Board must be given access to the
   timeline for progress reports.
@@ -65,9 +65,9 @@ Etc.
 
 :::important
 
-All projects must have at least THREE (3) students. If you apply with less than
-3 students, you will be given a deadline to find more students willing to
-participate.
+All projects must have at least THREE (3) students. You can apply with less than
+3 students; however, you will be given a deadline to find more students willing
+to participate.
 
 :::
 
