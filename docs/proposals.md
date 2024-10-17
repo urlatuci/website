@@ -100,13 +100,13 @@ This section will include what would be a proposal for the
 
 ### Sample Abstract
 
-> A lot can be in a caregiver's mind when their loved one is in hospice, and
+> *A lot can be in a caregiver's mind when their loved one is in hospice, and
 > we want to ensure everybody caring for them can provide the best possible
 > care. This project aims to understand the needs of hospice patients,
 > caregivers, and nurses to develop solutions that will improve the care and
 > communication of your loved one. Allowing a single device to be the epicenter
 > of the patient's care and relaying it to other caregivers' devices, we ensure
-> that critical information will not be miscommunicated between caregivers.
+> that critical information will not be miscommunicated between caregivers.*
 
 ### Sample Introduction
 
