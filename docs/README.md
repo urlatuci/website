@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: urop
+displayed_sidebar: default
 description: >
     Welcome to the Undergraduate Research Lab's documentation! This is a
     collection of Markdown files organized to help you get a better

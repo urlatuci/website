@@ -1,19 +1,20 @@
 import type {SidebarsConfig} from "@docusaurus/plugin-content-docs"
 
 const sidebars: SidebarsConfig = {
+    default: ["proposals", "urop/README"],
     urop: [
         {
             type: "category",
-            label: "UROP Resources",
+            label: "Research Experience Fellowship",
             collapsed: false,
             collapsible: true,
             link: {
                 type: "generated-index",
-                title: "UROP Resources",
-                description: "The Undergraduate Research Opportunities Program (UROP) makes it possible for students to apply for funding. It is required for all URL projects to apply for UROP funding.",
-                slug: "/urop/",
+                title: "UROP REF Resources",
+                description: "Resources for the UROP Research Experience Fellowship.",
+                slug: "/urop/ref/"
             },
-            items: ["urop/statements"]
+            items: ["urop/ref/statements"]
         }
     ]
 }
