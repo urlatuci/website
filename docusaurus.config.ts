@@ -6,6 +6,7 @@ const config: Config = {
   title: 'Undergraduate Research Lab @ UCI',
   url: 'https://urlatuci.org',
   baseUrl: '/',
+  trailingSlash: true,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
