@@ -75,6 +75,10 @@ const config: Config = {
           title: "Socials",
           items: [
             {
+              label: "Discord",
+              href: "https://discord.gg/9CpT2JK5gs"
+            },
+            {
               label: "Instagram",
               href: "https://instagram.com/urlatuci/"
             },
