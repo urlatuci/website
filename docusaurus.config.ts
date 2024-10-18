@@ -75,6 +75,10 @@ const config: Config = {
           title: "Socials",
           items: [
             {
+              label: "Linktree",
+              href: "https://linktr.ee/urlatuci/"
+            },
+            {
               label: "Discord",
               href: "https://discord.gg/9CpT2JK5gs"
             },
