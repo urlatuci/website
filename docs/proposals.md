@@ -14,6 +14,30 @@ document is here to help you write a great proposal.
 
 Your next adventure starts here!
 
+## Why submit a proposal?
+
+Good question! The URL is an undergraduate-led organization that's meant to help
+you get started with research. Have an idea you've always wanted to pursue? This
+may be the place to start.
+
+If your proposal gets accepted by the URL, we will be able to help mentor and
+guide you as you pursue your research. Some of the things we're able to do for
+you are:
+
+- **Funding guidance**: We will help you navigate the process of getting your
+  project funded by [UROP](https://urop.uci.edu/)
+- **Mentorship**: The URL Board will meet with you to help with your project
+
+... and more!
+
+:::tip
+
+If you want to get to meet us before making a decision, the URL is having a
+Think Tank event on Wednesday, October 23 from 6-8 PM at DBH 5011. Join us and
+learn more about the URL!
+
+:::
+
 ## URL Project Requirements
 
 Before you start writing your proposal, please make sure that you are willing to
@@ -98,7 +122,7 @@ If you included references in your proposal, please add them here!
 ## Samples
 
 This section will include what would be a proposal for the
-[Ojos Project](https://ojosproject.org/).
+[Ojos Project](https://ojosproject.org/), another URL project.
 
 ### Sample Abstract
 
