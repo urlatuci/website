@@ -12,7 +12,5 @@ export default function Home(): JSX.Element {
         <p>Want to help build the website? Check out <a href="https://github.com/urlatuci/website/" rel="noopener noreferrer" target="_blank">the GitHub repo</a>.</p>
       </div>
     </Layout>
-    
-    
   );
 }
