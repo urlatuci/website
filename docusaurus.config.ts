@@ -10,6 +10,7 @@ const config: Config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  favicon: "images/text_logo.svg",
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -33,6 +34,11 @@ const config: Config = {
   themeConfig: {
     navbar: {
       title: 'Undergraduate Research Lab @ UCI',
+      logo: {
+        alt: "URL logo",
+        src: "images/text_logo.svg",
+        style: {borderRadius: 100}
+      },
       items: [
         {
           label: "Proposals",
