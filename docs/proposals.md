@@ -6,6 +6,8 @@ description: >
 ---
 # URL Proposal Guidelines
 
+![Project Proposals header](@site/static/images/project_proposals.jpg)
+
 Want to pursue your research ambitions? You can submit a proposal to the
 Undergraduate Research Lab for the opportunity to lead a research project! This
 document is here to help you write a great proposal.
